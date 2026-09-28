@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use ACRUX-01 in research, please cite this artifact."
+title: "La Tara De Acrux — ACRUX-01 Machine Reader Edition: Forensic Freeze G1→G12 v1.0.0"
+version: "1.0.0"
+date-released: 2026-09-28
+authors:
+  - family-names: "Niet"
+    given-names: "Ro Milan"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+publisher: "Vehicle Systems Lab"
+url: "https://github.com/vehiclesystemslab/acrux-01-machine-reader-edition"
+license: "LicenseRef-All-Rights-Reserved"
