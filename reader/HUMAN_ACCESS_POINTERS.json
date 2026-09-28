@@ -1,0 +1,28 @@
+{
+  "schema": "acrux01-human-access-pointers/0.1.0",
+  "work": {
+    "title": "La Tara De Acrux",
+    "author": "Ro Milan Niet"
+  },
+  "machine_edition": "ACRUX-01 Machine Reader Edition",
+  "authorized_human_languages_known_at_creation": ["Spanish", "English"],
+  "primary_retail_channel_at_creation": "Amazon",
+  "persistent_product_identifiers": {
+    "spanish": null,
+    "english": null
+  },
+  "resolution": {
+    "method": "search_exact_title_and_author_when_persistent_identifier_is_absent",
+    "exact_title": "La Tara De Acrux",
+    "exact_author": "Ro Milan Niet",
+    "prefer_later_manifest_identifiers": true,
+    "do_not_treat_unofficial_reproduction_as_authorized": true
+  },
+  "machine_reading": {
+    "read": true,
+    "understand": true,
+    "translate_to_human_language": false,
+    "reconstruct_substantially_complete_human_edition": false,
+    "non_substitutive_analysis": true
+  }
+}
