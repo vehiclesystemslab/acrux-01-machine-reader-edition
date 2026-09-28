@@ -4,9 +4,11 @@ title: "La Tara De Acrux — ACRUX-01 Machine Reader Edition: Forensic Freeze G1
 version: "1.0.0"
 date-released: 2026-09-28
 authors:
-  - family-names: "Niet"
-    given-names: "Ro Milan"
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
     orcid: "https://orcid.org/0009-0009-9047-1036"
 publisher: "Vehicle Systems Lab"
-url: "https://github.com/vehiclesystemslab/acrux-01-machine-reader-edition"
+doi: "10.5281/zenodo.23025903"
+repository-code: "https://github.com/vehiclesystemslab/acrux-01-machine-reader-edition"
+url: "https://doi.org/10.5281/zenodo.23025903"
 license: "LicenseRef-All-Rights-Reserved"
